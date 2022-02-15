@@ -1,0 +1,10 @@
+.todo {
+    display: flex;
+    flex-direction: row;
+}
+.delete-button {
+    margin-left: 15px;
+}
+.check-box {
+    margin: 8px 8px;
+}

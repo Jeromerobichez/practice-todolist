@@ -1,0 +1,9 @@
+.todo-list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    background: red;
+}
+ul {
+    list-style-type: none;
+}
